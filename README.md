@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sonurahulmadduri@gmail.com**
 
-- ⚡ Fun fact **After spending over 2 hours, reviewing more than 300 lines of code, and running the program 15+ times, I finally traced the issue to a 1-character typo.**
+- ⚡ Fun fact **I once named a Python file FinalProjectFinal.py thinking I was done. It became FinalProjectFinalV2.py, then FinalProjectV3.py, and finally... FinalProject_REALLYFINAL.py. Even my IDE gave up.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
