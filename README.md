@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-49" alt="rahul-49" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch, OpenCV**
+- 🌱 I’m currently learning **NLP, React**
 
 - 📫 How to reach me **sonurahulmadduri@gmail.com**
 
