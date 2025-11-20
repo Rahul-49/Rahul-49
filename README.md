@@ -14,7 +14,7 @@
 [![GitHub](https://img.shields.io/github/followers/Rahul-49?label=Follow&style=social)](https://github.com/Rahul-49) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-49&label=Viewer%20Count&color=23c736&style=plastic" alt="rahul-49" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-49" alt="rahul-49" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rahul-49)](https://github.com/Rahul-49/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
